@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079062005960",
+    "project_id": "login-letzel",
+    "storage_bucket": "login-letzel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079062005960:android:a2c29464addc205ca53dfd",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtPX7icN8QaOpbLLhWQDRKHB37KtXnKno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079062005960:android:cbb2e6fffb3afe69a53dfd",
+        "android_client_info": {
+          "package_name": "com.example.flutterlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtPX7icN8QaOpbLLhWQDRKHB37KtXnKno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
